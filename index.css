@@ -1,0 +1,41 @@
+/* Setting up the boiler template for the document. */ 
+* {
+    font-family: Helvetica;
+    box-sizing: border-box;
+    border: none;
+    margin: 0 auto;
+  }
+/* Starting the custom styling for the document. */ 
+.store-label {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image:url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+    width: 100%;
+}
+.brush-label {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumseagreen;
+}
+.frame-label {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+.paint-label {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+p {
+    padding: 10px 5px;
+}
+img {
+    padding-bottom: 10px;
+}
+
+
